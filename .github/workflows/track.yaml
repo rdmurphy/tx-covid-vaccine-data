@@ -1,0 +1,22 @@
+name: Scrape DSHS vaccine distribution data
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v2
+
+      - name: Run scraper
+        id: scraper
+        run: ./scrape.sh
+
+      - name: Commit to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update to feed
+          file_pattern: "*.json"
