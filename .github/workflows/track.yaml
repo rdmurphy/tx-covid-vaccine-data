@@ -11,15 +11,6 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@v2
 
-      - name: Run providers scraper
-        run: ./providers.sh
-
-      - name: Commit to GitHub
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update providers data
-          file_pattern: "providers/latest.json providers/snapshots/*.json"
-
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -30,10 +21,19 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      - name: Run providers scraper
+        run: python providers.py
+
+      - name: Commit providers updates to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update providers data
+          file_pattern: "providers/latest.csv providers/snapshots/*.csv"
+
       - name: Run distribution scraper
         run: python distribution.py
 
-      - name: Commit to GitHub
+      - name: Commit distribution updates to GitHub
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update distribution data
