@@ -4,10 +4,12 @@ import json
 from operator import itemgetter
 from shutil import copyfile
 from urllib import request
+from zoneinfo import ZoneInfo
 
 LAST_EDITED_ENDPOINT = "https://services5.arcgis.com/ACaLB9ifngzawspq/arcgis/rest/services/VaccineProviderLocations/FeatureServer/0/?f=json"
 DATA_ENDPOINT = "https://services5.arcgis.com/ACaLB9ifngzawspq/ArcGIS/rest/services/VaccineProviderLocations/FeatureServer/0/query?where=1%3D1&outFields=*&maxRecordCountFactor=5&f=json"
 
+CENTRAL_TZ = ZoneInfo("America/Chicago")
 LATEST_PATH = "providers/latest.csv"
 
 
@@ -17,7 +19,9 @@ def main():
     data = json.load(response)
 
     # it comes down in like nanoseconds so we need to peel it back a little
-    last_edited = datetime.fromtimestamp(data["editingInfo"]["lastEditDate"] / 1000.0)
+    last_edited = datetime.fromtimestamp(
+        data["editingInfo"]["lastEditDate"] / 1000.0, tz=CENTRAL_TZ
+    )
     as_of = last_edited.date().isoformat()
 
     # now grab the data itself
