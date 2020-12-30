@@ -1,4 +1,4 @@
-name: Scrape DSHS vaccine distribution data
+name: Scrape DSHS vaccine data
 
 on:
   schedule:
@@ -11,12 +11,30 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@v2
 
-      - name: Run scraper
-        id: scraper
-        run: ./scrape.sh
+      - name: Run providers scraper
+        run: ./providers.sh
 
       - name: Commit to GitHub
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update to feed
-          file_pattern: "latest.json snapshots/*.json"
+          commit_message: Update providers data
+          file_pattern: "providers/latest.json providers/snapshots/*.json"
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run distribution scraper
+        run: python distribution.py
+
+      - name: Commit to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update distribution data
+          file_pattern: "distribution/latest.csv distribution/snapshots/*.csv"
