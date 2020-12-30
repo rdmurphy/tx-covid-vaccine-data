@@ -19,4 +19,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update to feed
-          file_pattern: "*.json"
+          file_pattern: "latest.json snapshots/*.json"
