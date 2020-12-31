@@ -1,4 +1,4 @@
-name: Scrape DSHS vaccine data
+name: Scrape vaccine data
 
 on:
   schedule:
