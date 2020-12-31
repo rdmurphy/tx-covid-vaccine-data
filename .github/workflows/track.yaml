@@ -38,3 +38,12 @@ jobs:
         with:
           commit_message: Update distribution data
           file_pattern: "distribution/latest.csv distribution/snapshots/*.csv"
+
+      - name: Run availability scraper
+        run: python availability.py
+
+      - name: Commit availability updates to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update availability data
+          file_pattern: "availability/latest.csv availability/snapshots/*.csv"
