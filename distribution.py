@@ -26,7 +26,7 @@ def main():
     as_of = modified.date().isoformat()
 
     # grab our "Data" sheet
-    sheet = wb["Data"]
+    sheet = wb["By County"]
 
     # save out our latest fil
     with open(LATEST_PATH, "w") as outfile:
