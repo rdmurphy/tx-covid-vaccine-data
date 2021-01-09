@@ -38,6 +38,12 @@ jobs:
         with:
           commit_message: Update distribution data
           file_pattern: "distribution/latest.csv distribution/snapshots/*.csv"
+          
+      - name: Commit ages updates to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update ages data
+          file_pattern: "ages/latest.csv ages/snapshots/*.csv"
 
       - name: Run availability scraper
         run: python availability.py
