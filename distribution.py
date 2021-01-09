@@ -10,7 +10,8 @@ PATH_TO_EXCEL = (
     "https://www.dshs.texas.gov/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls"
 )
 CENTRAL_TZ = ZoneInfo("America/Chicago")
-LATEST_PATH = "distribution/latest.csv"
+LATEST_DISTRIBUTION_PATH = "distribution/latest.csv"
+LATEST_AGE_PATH = "ages/latest.csv"
 
 
 def main():
@@ -28,17 +29,29 @@ def main():
     # grab our "Data" sheet
     sheet = wb["By County"]
 
-    # save out our latest fil
-    with open(LATEST_PATH, "w") as outfile:
+    # save out our latest file
+    with open(LATEST_DISTRIBUTION_PATH, "w") as outfile:
         writer = csv.writer(outfile)
 
         for row in sheet.rows:
             writer.writerow(cell.value for cell in row)
 
+    sheet = wb["Vaccinations by Gender, Age"]
+
+    with open(LATEST_AGE_PATH, "w") as outfile:
+        writer = csv.writer(outfile)
+
+        for row in sheet.rows:
+            first_cell = row[0].value
+            label = first_cell if first_cell else label
+            values = [label] + [cell.value for cell in row[1:]]
+            writer.writerow(values)
+
     # don't need the notebook anymore
     wb.close()
 
-    copyfile(LATEST_PATH, f"distribution/snapshots/{as_of}.csv")
+    copyfile(LATEST_DISTRIBUTION_PATH, f"distribution/snapshots/{as_of}.csv")
+    copyfile(LATEST_AGE_PATH, f"ages/snapshots/{as_of}.csv")
 
 
 if __name__ == "__main__":
