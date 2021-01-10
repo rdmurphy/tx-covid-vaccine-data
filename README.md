@@ -2,9 +2,7 @@
 
 Tracking data on the progress of vaccine distribution and adminstration in Texas.
 
-In addition to surfacing the latest available data the state is providing, this repo is also saving snapshots of each change in each directory's respective `snapshots` folder, enabling over-time analysis (with a little bit of work).
-
-Be aware that the state **has** re-worked a few of the data sets since they created them, so there's no guarantee that every snapshot is compatible with each other.
+In addition to surfacing the latest available data the state is providing, this repo is also saving snapshots of each change in each directory's respective `snapshots` folder, enabling over-time analysis (with a little bit of work). Be aware that the state **has** re-worked a few of the data sets since they created them, so there's no guarantee that every snapshot is compatible with each other.
 
 If there are any other datasets you think are worth including here, please let me know in an issue!
 
@@ -21,7 +19,7 @@ A backup of the XLSX file made available [on this page](https://www.dshs.texas.g
 
 Initially added to the repo on Jan. 8, 2021.
 
-This is sourced from the same XLSX file as the data above when it was added as a new sheet on Jan. 8, 2021.
+This is sourced from the same XLSX file as above after being added as a new sheet on Jan. 8, 2021.
 
 ### Vaccine Providers ([Latest data](providers/latest.csv))
 
@@ -34,6 +32,8 @@ This is the data powering Texas' [COVID vaccine provider map](https://tdem.maps.
 Initially added to the repo on Dec. 30, 2020.
 
 This is the most detailed data I have found so far. Was initially powering a separate Texas Department of Emergency Management (TDEM) map, but now is the source of whether vaccines are marked as available in the map above.
+
+Because this data is updated seemingly in real-ish time, the snapshots are done by timestamp instead of date.
 
 ## License
 
