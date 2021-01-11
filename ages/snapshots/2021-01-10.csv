@@ -1,20 +1,20 @@
 Gender,Age Group,Doses Administered,People Vaccinated with at least One Dose,People Fully Vaccinated
-Female,16-49 years,248727,222005,26722
-Female,50-64 years,119888,108726,11162
-Female,65-79 years,70823,68874,1949
-Female,80+ years,21851,21768,83
-Female,Unknown,462,452,10
-Female,Total,461751,421825,39926
-Male,16-49 years,133171,117922,15249
-Male,50-64 years,72394,65307,7087
-Male,65-79 years,60637,58647,1990
-Male,80+ years,15676,15577,99
-Male,Unknown,300,291,9
-Male,Total,282178,257744,24434
-Unknown,16-49 years,2574,2508,66
-Unknown,50-64 years,1399,1354,45
-Unknown,65-79 years,3794,3787,7
+Female,16-49 years,261441,228602,32839
+Female,50-64 years,125483,112024,13459
+Female,65-79 years,74390,72098,2292
+Female,80+ years,22762,22669,93
+Female,Unknown,468,458,10
+Female,Total,484544,435851,48693
+Male,16-49 years,140393,121914,18479
+Male,50-64 years,75884,67411,8473
+Male,65-79 years,63699,61366,2333
+Male,80+ years,16328,16210,118
+Male,Unknown,304,295,9
+Male,Total,296608,267196,29412
+Unknown,16-49 years,2589,2516,73
+Unknown,50-64 years,1403,1356,47
+Unknown,65-79 years,3796,3789,7
 Unknown,80+ years,622,622,0
-Unknown,Unknown,6,6,0
-Unknown,Total,8395,8277,118
-Texas,,752324,687846,64478
+Unknown,Unknown,7,7,0
+Unknown,Total,8417,8290,127
+Texas,,789569,711337,78232
