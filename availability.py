@@ -15,6 +15,9 @@ def main():
     response = request.urlopen(LAST_EDITED_ENDPOINT)
     data = json.load(response)
 
+    if "error" in data:
+        return
+
     # use the raw timestamp in case this changes more frequently
     as_of = data["editingInfo"]["lastEditDate"]
 
