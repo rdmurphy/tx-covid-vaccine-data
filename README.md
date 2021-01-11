@@ -27,13 +27,13 @@ Initially added to the repo on Dec. 28, 2020.
 
 This is the data powering Texas' [COVID vaccine provider map](https://tdem.maps.arcgis.com/apps/webappviewer/index.html?id=3700a84845c5470cb0dc3ddace5c376b). It initially tracked how many vaccines had been distrbuted by week, but has since moved to just showing the totals of Pfizer and Moderna vaccines received per location.
 
+## What's no longer available
+
 ### Vaccine Distribution and Availability by Provider ([Latest data](availability/latest.csv))
 
-Initially added to the repo on Dec. 30, 2020.
+Initially added to the repo on Dec. 30, 2020. The state shut down this feed on Jan. 11, 2021.
 
-This is the most detailed data I have found so far. Was initially powering a separate Texas Department of Emergency Management (TDEM) map, but now is the source of whether vaccines are marked as available in the map above.
-
-Because this data is updated seemingly in real-ish time, the snapshots are done by timestamp instead of date.
+This was the most detailed data I had found, but is no longer available. Was initially powering a separate Texas Department of Emergency Management (TDEM) map, but now is the source of whether vaccines are marked as available in the map above.
 
 ## License
 
