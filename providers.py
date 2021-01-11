@@ -6,8 +6,8 @@ from shutil import copyfile
 from urllib import request
 from zoneinfo import ZoneInfo
 
-LAST_EDITED_ENDPOINT = "https://services5.arcgis.com/ACaLB9ifngzawspq/arcgis/rest/services/VaccineProviderLocations/FeatureServer/0/?f=json"
-DATA_ENDPOINT = "https://services5.arcgis.com/ACaLB9ifngzawspq/ArcGIS/rest/services/VaccineProviderLocations/FeatureServer/0/query?where=1%3D1&outFields=*&maxRecordCountFactor=5&f=json"
+LAST_EDITED_ENDPOINT = "https://services5.arcgis.com/Rvw11bGpzJNE7apK/ArcGIS/rest/services/VaccinesLocations_gdb_PublicView/FeatureServer/0/?f=json"
+DATA_ENDPOINT = "https://services5.arcgis.com/Rvw11bGpzJNE7apK/ArcGIS/rest/services/VaccinesLocations_gdb_PublicView/FeatureServer/0/query?where=1%3D1&outFields=*&maxRecordCountFactor=5&geometryPrecision=6&outSR=%7B%22wkid%22%3A+4326%7D&f=json"
 
 CENTRAL_TZ = ZoneInfo("America/Chicago")
 LATEST_PATH = "providers/latest.csv"
@@ -28,10 +28,17 @@ def main():
     response = request.urlopen(DATA_ENDPOINT)
     data = json.load(response)
 
+    providers = []
+
+    for provider in data["features"]:
+        print(provider)
+        attributes = provider["attributes"]
+        geometry = provider.get("geometry", {"x": None, "y": None})
+
+        providers.append({**attributes, **geometry})
+
     # go a few steps in so we can get what we need out of the Arc data structure
-    providers = sorted(
-        (d["attributes"] for d in data["features"]), key=itemgetter("OBJECTID")
-    )
+    providers = sorted(providers, key=itemgetter("OBJECTID"))
 
     # I found a way to trick the FeatureServer into giving me all providers in
     # a single query but this could blow up at any point, so let's check
