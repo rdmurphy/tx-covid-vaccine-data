@@ -36,7 +36,7 @@ def main():
         for row in sheet.rows:
             writer.writerow(cell.value for cell in row)
 
-    sheet = wb["Vaccinations by Gender, Age"]
+    sheet = wb["By Age, Gender, Race"]
 
     with open(LATEST_AGE_PATH, "w") as outfile:
         writer = csv.writer(outfile)
