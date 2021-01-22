@@ -6,8 +6,8 @@ from shutil import copyfile
 from urllib import request
 from zoneinfo import ZoneInfo
 
-LAST_EDITED_ENDPOINT = "https://services5.arcgis.com/Rvw11bGpzJNE7apK/ArcGIS/rest/services/VaccinesLocations_gdb_PublicView/FeatureServer/0/?f=json"
-DATA_ENDPOINT = "https://services5.arcgis.com/Rvw11bGpzJNE7apK/ArcGIS/rest/services/VaccinesLocations_gdb_PublicView/FeatureServer/0/query?where=1%3D1&outFields=*&maxRecordCountFactor=5&geometryPrecision=6&outSR=%7B%22wkid%22%3A+4326%7D&f=json"
+LAST_EDITED_ENDPOINT = "https://services5.arcgis.com/Rvw11bGpzJNE7apK/ArcGIS/rest/services/VaccinesPublic_gdb/FeatureServer/0/?f=json"
+DATA_ENDPOINT = "https://services5.arcgis.com/Rvw11bGpzJNE7apK/ArcGIS/rest/services/VaccinesPublic_gdb/FeatureServer/0/query?where=1%3D1&outFields=*&maxRecordCountFactor=5&geometryPrecision=6&outSR=%7B%22wkid%22%3A+4326%7D&f=json"
 
 CENTRAL_TZ = ZoneInfo("America/Chicago")
 LATEST_PATH = "providers/latest.csv"
@@ -31,7 +31,6 @@ def main():
     providers = []
 
     for provider in data["features"]:
-        print(provider)
         attributes = provider["attributes"]
         geometry = provider.get("geometry", {"x": None, "y": None})
 
