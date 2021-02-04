@@ -617,7 +617,7 @@ OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_
 616,Walmart Pharmacy 226,Pharmacy,,201 Loop 59,Atlanta,CASS,201 Loop 59,75551,33.114713,-94.182359,0,0,0,100,,,,02/03/2021      ,05:21:02        ,-94.182359,33.114713
 617,Granbury Hood County EMS Inc,Other,,,Granbury,Hood,2200 Commercial Ln,76048,32.436231,-97.811213,0,0,0,1500,,,,02/03/2021      ,18:17:40        ,-97.811213,32.436231
 618,Centro Med Union Avenue,Other,,226 N Union Ave New Braunfels 78130,New Braunfels,COMAL,226 N Union Ave New Braunfels 78130,78130,29.711046,-98.120517,0,0,0,300,,,,02/03/2021      ,07:59:27        ,-98.120517,29.711046
-619,Parkland Hospital System-Center for Geriatrics,Other,,2231 Butler Street,Dallas,DALLAS,2231 Butler Street,75235,32.815456,-96.837285,0,200,200,200,,,,02/03/2021      ,10:13:05        ,-96.837285,32.815456
+619,Parkland Hospital System-Center for Geriatrics,Other,,2231 Butler Street,Dallas,DALLAS,2231 Butler Street,75235,32.815456,-96.837285,0,200,200,200,,,,02/04/2021      ,03:26:35        ,-96.837285,32.815456
 620,Legacy Communty Health - Beaumont,Community Clinic,,450 N 11th St,Beaumont,Jefferson,450 N 11th St,77702,30.0856758737487,-94.1295914317116,0,200,200,200,,,,02/03/2021      ,06:40:43        ,-94.129591,30.085676
 621,AdventHealth Rollins Brook Hospital,Other,,608 North Key Avenue,Lampasas,LAMPASAS,608 North Key Avenue,76550,31.07233,-98.185644,0,0,0,300,512-564-2240,,,02/03/2021      ,08:17:32        ,-98.185644,31.07233
 622,Walmart Pharmacy 5810,Other,,7075 W Wheatland Rd,Dallas,Dallas,7075 W Wheatland Rd,75249,32.647214,-96.945003,0,100,100,100,,,,02/03/2021      ,05:24:46        ,-96.945003,32.647214
