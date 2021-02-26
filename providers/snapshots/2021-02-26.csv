@@ -1,66 +1,66 @@
 OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_AVAILABLE,MODERNA_AVAILABLE,VACCINES_AVAILABLE,Total_Shipped,PublicPhone,WEBSITE,RemoveRecord,LAST_UPDATE_VAC,LAST_UPDATE_TIME_VAC,x,y
-1,Vaxanation Mobile Vaccination Clinic,Other,,14655 North West Fwy,Houston,Harris,14655 North West Fwy,77040,29.8657613340139,-95.5393335574956,0,0,0,1000,8324609003,,,02/23/2021      ,17:10:50        ,-95.539334,29.865761
-2,Emergency Operations Center,Community Clinic,,West 10th,Del Rio,Val Verde,1051 West 10th,78840,29.3701092789369,-100.916992588528,0,0,0,500,,,,,,-100.916993,29.370109
-3,BAYLOR MEDICAL CENTER - TROPHY CLUB,Hospital,E,2850 TX-114,Trophy Club,Denton,"2850 TX-114, Trophy Club, TX, 76262",76262,32.98863,-97.17509,0,0,0,100,(817) 837-4600,,,02/25/2021      ,14:29:03        ,-97.17509,32.98863
-4,LEGENT HOSPITAL OF EL PASO,Hospital,I,1416 George Dieter Dr, El Paso,El Paso,"1416 George Dieter Dr, El Paso, TX, 79936",79936,31.734663,-106.30011,0,0,0,100,(915) 849-4749,,,02/10/2021      ,13:53:13        ,-106.30011,31.734663
-5,"Renal Care Group Texas, Inc",Community Clinic,,S Palestine,Athens,Henderson,1220 S Palestine,75751,32.1809718480143,-95.8504070596476,0,0,0,100,,,,,,-95.850407,32.180972
-6,Fresenius Kidney Care of Allen,Other,,925 W Exchange Pkwy,Allen,Collin,"925 West Exchange Parkway, Allen, TX, USA",75013,33.1150722,-96.6772193,0,60,60,100,,,,02/25/2021      ,09:00:46        ,-96.677219,33.115072
-7,Axtells Rite-Value Pharmacy Inc.,Pharmacy,,304 1 2 Charlie St,Whitesboro,Texas,304 1/2 Charlie St,76273,33.6682641,-96.9052969,0,48,48,100,9035643216,,,02/25/2021      ,19:00:56        ,-96.905297,33.668264
-8,Live Oak County Health Department,Other,,Houston St,George West,Live Oak,301 Houston St Annex Bldg Rm 10,78022,28.3342148214463,-98.1137487541584,0,0,0,200,,,,,,-98.113749,28.334215
-9,Kroger Pharmacy 137,Pharmacy,,Riley Fuzzel Rd,Spring,montgomery,3731 Riley Fuzzel Rd,77386,30.1183759,-95.3820133,0,190,190,200,(281)-602-0283,HO00137Pharmacy@stores.kroger.com,,02/24/2021      ,19:26:03        ,-95.382013,30.118376
-10,PAM REHABILITATION HOSPITAL OF BEAUMONT,Hospital,R,3340 Plaza 10 Dr, Beaumont,Jefferson,"3340 Plaza 10 Dr, Beaumont, TX, 77707",77707,30.077615,-94.137782,0,0,0,200,(409) 835-0835,,,02/25/2021      ,18:13:22        ,-94.137782,30.077615
-11,Privia Medical Group Gulf Coast,Medical Practice,,7900 Fannin Street,Houston,Harris,7900 Fannin Street,77054,29.6912647363224,-95.4029732362382,0,0,0,1100,(281) 656-8063,,,02/25/2021      ,20:20:54        ,-95.402973,29.691265
-12,Bswir Jv,Other,,2000 Medical Drive,Austin,Travis,2000 Medical Drive,78734,30.3531450228591,-97.9678287172829,0,0,0,200,+15122634500,https://www.bswrehab.com/,,,,-97.967829,30.353145
-13,Walgreens Pharmacy 02135,Other,,6610 Tidwell Rd,Houston,Harris,6610 Tidwell Rd,77016,29.8481700172587,-95.3028114001639,0,0,0,200,+17136332230,https://www.walgreens.com/locator/walgreens-6610+tidwell+rd-houston-tx-77016/id=2135,,,,-95.302811,29.84817
-14,Harris County Emergency Services Distri,Other,,,Katy,Harris,21201 Morton Road,77449,,,0,0,0,200,,,,,,,
-15,POST ACUTE MEDICAL REHAB HOSPITAL HUMBLE,Hospital,Q,18839 McKay Drive, Humble,Harris,"18839 McKay Drive, Humble, TX, 77338",77338,29.992033,-95.279058,0,0,0,200,(281) 446-3655,https://www.postacutemedical.com/,,,,-95.279058,29.992033
-16,Walgreens Pharmacy 10841,Other,,1660 Main St,Buda,Hays,1660 Main St,78610,30.0900335911781,-97.8225236001602,0,0,0,200,+15122952564,https://www.walgreens.com/locator/walgreens-1660+main+st-buda-tx-78610/id=10841,,,,-97.822524,30.090034
-17,Walgreens Pharmacy 12029,Other,,,Dripping Springs,Hays,27495 Rr 12,78620,,,0,0,0,200,,,,,,,
-18,Tarleton State University Student Health,Other,,201 N Saint Felix,Stephenville,Erath,201 N Saint Felix,76401,32.213681291312,-98.2211443884828,0,0,0,200,+12549689044,https://www.tarleton.edu/counseling/,,,,-98.221144,32.213681
-19,Medcare Plus Pharmacy,Other,,,Elmendorf,Bexar,3712 New Mathis Rd,78112,,,0,0,0,100,,,,,,,
-20,Canyon Creek Behavioral Health,Other,,Canyon Creek Drive,Temple,brll,1201 Canyon Creek Drive,76502,31.0604706178417,-97.3692340731589,0,0,0,100,,,,,,-97.369234,31.060471
-21,Dshs Navasota,Other,,,Navasota,Grimes,513 N La Salle St,77868,,,0,0,0,200,,,,,,,
-22,United Pharmacy 539,Other,,,Borger,Hutchinson,1414 W Wilson St,79007,,,0,0,0,100,,,,,,,
-23,CommUnityCare Sandra Joy Anderson,Other,, E 11th St,Austin,Travis,1705 E 11th St,78702,32.7465805893688,-96.8063986884738,0,0,0,200,5129788091,,,,,-96.806399,32.746581
-24,Genesis Primecare Tx Border Hlth,Other,,,Marshall,Harrison,805 Lindsey Drive,75670,,,0,0,0,100,,,,,,,
-25,Walgreens Pharmacy 12521,Other,,1700 Rr 12,San Marcos,Hays,1700 Rr 12,78666,29.8970882077432,-97.9647378731771,0,0,0,200,+15123933701,https://www.walgreens.com/locator/walgreens-1700+old+ranch+road+12-san+marcos-tx-78666/id=12521,,,,-97.964738,29.897088
-26,Fresenius Medical Care Metro East Dialy,Other,,,Mesquite,Dallas,909 Gross Rd,75149,,,0,0,0,100,,,,,,,
-27,Medical Arts Kidney Center Of Ennis,Other,,,Ennis,Ellis,(972) 875-8460,75119,,,0,0,0,100,,,,,,,
-28,Fresenius Kidney Care,Other,,,Amarillo,Potter,5920 Amarillo Blvd W,79106,,,0,0,0,100,,,,,,,
-29,BMA ALAMO CITY,Other,,Camden Street,San Antonio,Bexar,805 Camden Street,78215,29.4384652409032,-98.4871404290057,0,0,0,100,,,,,,-98.48714,29.438465
-30,Walgreens Pharmacy 04550,Other,,639 E Hopkins St,San Marcos,Hays,639 E Hopkins St,78666,29.8876521266821,-97.9277402299208,0,0,0,200,+15123961335,https://www.walgreens.com/locator/walgreens-639+e+hopkins+st-san+marcos-tx-78666/id=4550,,,,-97.92774,29.887652
-31,Houston Community Health Centers,Other,,Hahlo Street,Houston,Harris,424 Hahlo Street,77020,29.7805232609567,-95.3099258173571,0,0,0,100,,,,,,-95.309926,29.780523
-32,SOUTH TEXAS REHABILITATION HOSPITAL,Pharmacy,V,425 E Alton Gloor Blvd, Brownsville,Cameron,"425 E Alton Gloor Blvd, Brownsville, TX, 78526",78526,25.980805,-97.510596,0,0,0,200,(956) 554-6000,http://strh.ernesthealth.com/,,02/25/2021      ,08:47:44        ,-97.510596,25.980805
-33,DaVita Loma Vista,Other,,Lomaland Dr,El Paso,El Paso,"1382 Lomaland Dr, Ste A ",79935-5204,31.7493951,-106.3270184,0,0,0,100,,,,02/23/2021      ,05:45:45        ,-106.327018,31.749395
-34,SOLARA HOSPITAL HARLINGEN,Hospital,V,508 Victoria Ln, Harlingen,Cameron,"508 Victoria Ln, Harlingen, TX, 78550",78550,26.158673,-97.674428,0,0,0,100,(956) 425-9600,,,,,-97.674428,26.158673
-35,BAYLOR SCOTT WHITE INSTITUTE REHAB - DALLAS,Hospital,E,909 North Washington Ave, Dallas,Dallas,"909 North Washington Ave, Dallas, TX, 75246",75246,32.792263,-96.779604,0,0,0,200,,https://www.bswrehab.com/,,,,-96.779604,32.792263
-36,COBALT REHABILITATION HOSPITAL,Hospital,I,1600 E. Cliff, El Paso,El Paso,"1600 E. Cliff, El Paso, TX, 79902",79902,31.776912,-106.479668,0,0,0,100,,,,,,-106.479668,31.776912
-37,Rolling Hills Health,Medical Practice,,Oakhill Dr,Leakey,Real,121 Oakhill Dr,78873,42.819349,-78.737118,0,0,0,100,,,,02/25/2021      ,12:25:29        ,-78.737118,42.819349
-38,South Plains Public Health District - Brownfield,Local Health Department,,919 East Main,Brownfield,Terry,919 East Main,79316,37.537549,-77.4360429,0,0,0,200,806-637-2164,,,02/25/2021      ,15:05:25        ,-77.436043,37.537549
-39,PAM REHAB HOSPITAL CLEAR LAKE,Hospital,Q,110 East Medical Center Blvd, Webster,Harris,"110 East Medical Center Blvd, Webster, TX, 77598",77598,29.543433,-95.122195,0,0,0,200,(832) 224-9500,http://postacutemedical.com/facilities/find-facility/rehabilitation-hospitals/pam-rehabilitation-hospital-clear-lake,,02/25/2021      ,09:32:31        ,-95.122195,29.543433
-40,Brookshires Pharmacy 30,Pharmacy,,2107 S Loop 256,Palestine,Anderson,2107 S Loop 256,75801,31.736814017285,-95.6112959681131,0,0,0,300,(903) 723-1092,https://www.brookshires.com/covid-19-information,,02/25/2021      ,19:16:28        ,-95.611296,31.736814
-41,New Horizon Hospital,Other,,17506 Red Oak Dr,Houston,Harris,17506 Red Oak Dr,77090,30.0272598046932,-95.4498100866681,0,0,0,200,+12813971530,https://newhorizonhospitalhouston.com/,,,,-95.44981,30.02726
-42,DSHS -Alpine Clinic,Other,,Cockrell,Alpine,Brewster,205 North Cockrell Street,79830,30.3604768,-103.655212,0,0,0,200,,,,02/24/2021      ,16:53:07        ,-103.655212,30.360477
-43,Communitycare William Cannon,Other,,,Austin,Travis,6801 S Ih 35 Frontage Rd,78744,,,0,0,0,200,,,,,,,
-44,LEVELLAND CLINIC NORTH,Other,,103 John Dupree Dr,Levelland,Hockley,103 John Dupree Dr,79336,33.5746319650502,-102.368508628939,0,0,0,200,+18068942465,https://www.covenanthealth.org/our-services/family-medicine/levelland-clinic-north/,,,,-102.368509,33.574632
-45,Hope Clinic - Waxahachie,Community Clinic,,411 E Jefferson St ,Waxahachie,,411 E Jefferson St Bldg B,75165,41.6622071,-91.5295693,0,0,0,100,(972) 923-2440,PLINGUIST@CALL4HOPE.ORG,,02/25/2021      ,20:01:07        ,-91.529569,41.662207
-46,Lakeland Medical Associates - Tvfc 040207,Other,,170 Municipal Drive,Mabank,Henderson,170 Municipal Drive,75156,32.3335211530282,-96.1155037308095,0,0,0,200,+19038877992,https://lakelandmedical.net/,,,,-96.115504,32.333521
-47,Southeast Texas Medical Ventures Llc,Other,,,Humble,Harris,1475 Fm 1960 Bypass E,77338,,,0,0,0,100,,,,,,,
-48,Hyland's Pharmacy,Pharmacy,,Bill Mack Rd,Shamrock,Texas,1814 Bill Mack Rd,79079,35.2334549,-100.2473072,0,0,0,200,,,,,,-100.247307,35.233455
-49,AdventHelath Family Medicine Rural Health Clinics,Other,,187 Pr 4060,Lampasas,Lampasas,187 Pr 4060,76550,31.0648276257068,-98.1565567308302,0,0,0,200,,,,,,-98.156557,31.064828
-50,Broadway Kidney Disease Center,Other,,,San Antonio,Bexar,8840 Tradeway St,78217,,,0,0,0,100,,,,,,,
-51,Dshs Hillsboro,Other,,South Ivy,Hillsboro,hill,605 South Ivy,76645,32.0056256337289,-97.1196283154723,0,0,0,400,,,,,,-97.119628,32.005626
-52,Gatesville Drug Company,Other,,,Gatesville,Coryell,2513 S State Hwy 36,76528,,,0,0,0,100,,,,,,,
-53,ENCOMPASS HEALTH REHABILITATION AUSTIN,Hospital,O,330 W Ben White Blvd,Austin,Travis,"330 W Ben White Blvd, Austin, TX, 78704",78704,30.225856,-97.766262,0,0,0,100,Non-Public,http://encompasshealth.com,,,,-97.766262,30.225856
-54,LHD South Plains Public Health Dist (RE),Other,,,Denver City,Yoakum,415 Mustang Dr,TX,,,0,0,0,200,,,,,,,
-55,Beaumont Kidney Center,Other,,1085 S 23rd St,Beaumont,Jefferson,1085 S 23rd St,77707,30.066128078628,-94.1425119596815,0,0,0,100,+14098402020,,,,,-94.142512,30.066128
-56,Encompass Health Rehabilitation Hospital,Other,,,Arlington,Tarrant,3200 Matlock Rd,76015,,,0,0,0,100,,,,,,,
-57,Randalls Pharmacy 2961,Pharmacy,,9660 Westheimer Rd,Houston,Harris,"9660 Westheimer Road, Houston, TX, USA",77063,29.7386681,-95.5369576,0,0,0,200,(713)706-3725,,,02/12/2022      ,11:15:00        ,-95.536958,29.738668
-58,Manor Pharmacy,Other,,14008 Shadowglen Blvd,Manor,Travis,14008 Shadowglen Blvd,78653,30.3501669271879,-97.5458073578275,0,0,0,100,,,,,,-97.545807,30.350167
-59,Cobalt Rehabilitation Houston Heights H,Other,,,Houston,Harris,1917 Ashland St,77008,,,0,0,0,100,,,,,,,
-60,Mlk Health Center Houston,Other,,3550 Swingle Rd ,Houston,HARRIS,3550 Swingle Rd ,77047,29.61994,-95.366837,0,0,0,800,,,,,,-95.366837,29.61994
-61,Sam Houston State University Student Health Center,Community Clinic,,1608 Avenue J,Huntsville,TX,1608 Avenue J,77341,30.7176828,-95.5491839,0,0,0,100,(936) 294-1803,,,02/25/2021      ,15:14:07        ,-95.549184,30.717683
-62,Lhc Family Medicine - Dr Cindy George,Other,,,Littlefield,Lamb,1600 S Sunset Ave A,79339,,,0,0,0,100,,,,,,,
+1,Lhc Family Medicine - Dr Cindy George,Other,,,Littlefield,Lamb,1600 S Sunset Ave A,79339,,,0,0,0,100,,,,,,,
+2,Vaxanation Mobile Vaccination Clinic,Other,,14655 North West Fwy,Houston,Harris,14655 North West Fwy,77040,29.8657613340139,-95.5393335574956,0,0,0,1000,8324609003,,,02/23/2021      ,17:10:50        ,-95.539334,29.865761
+3,Emergency Operations Center,Community Clinic,,West 10th,Del Rio,Val Verde,1051 West 10th,78840,29.3701092789369,-100.916992588528,0,0,0,500,,,,,,-100.916993,29.370109
+4,BAYLOR MEDICAL CENTER - TROPHY CLUB,Hospital,E,2850 TX-114,Trophy Club,Denton,"2850 TX-114, Trophy Club, TX, 76262",76262,32.98863,-97.17509,0,0,0,100,(817) 837-4600,,,02/25/2021      ,14:29:03        ,-97.17509,32.98863
+5,LEGENT HOSPITAL OF EL PASO,Hospital,I,1416 George Dieter Dr, El Paso,El Paso,"1416 George Dieter Dr, El Paso, TX, 79936",79936,31.734663,-106.30011,0,0,0,100,(915) 849-4749,,,02/10/2021      ,13:53:13        ,-106.30011,31.734663
+6,"Renal Care Group Texas, Inc",Community Clinic,,S Palestine,Athens,Henderson,1220 S Palestine,75751,32.1809718480143,-95.8504070596476,0,0,0,100,,,,,,-95.850407,32.180972
+7,Fresenius Kidney Care of Allen,Other,,925 W Exchange Pkwy,Allen,Collin,"925 West Exchange Parkway, Allen, TX, USA",75013,33.1150722,-96.6772193,0,60,60,100,,,,02/25/2021      ,09:00:46        ,-96.677219,33.115072
+8,Axtells Rite-Value Pharmacy Inc.,Pharmacy,,304 1 2 Charlie St,Whitesboro,Texas,304 1/2 Charlie St,76273,33.6682641,-96.9052969,0,48,48,100,9035643216,,,02/25/2021      ,19:00:56        ,-96.905297,33.668264
+9,Live Oak County Health Department,Other,,Houston St,George West,Live Oak,301 Houston St Annex Bldg Rm 10,78022,28.3342148214463,-98.1137487541584,0,0,0,200,,,,,,-98.113749,28.334215
+10,Kroger Pharmacy 137,Pharmacy,,Riley Fuzzel Rd,Spring,montgomery,3731 Riley Fuzzel Rd,77386,30.1183759,-95.3820133,0,190,190,200,(281)-602-0283,HO00137Pharmacy@stores.kroger.com,,02/24/2021      ,19:26:03        ,-95.382013,30.118376
+11,PAM REHABILITATION HOSPITAL OF BEAUMONT,Hospital,R,3340 Plaza 10 Dr, Beaumont,Jefferson,"3340 Plaza 10 Dr, Beaumont, TX, 77707",77707,30.077615,-94.137782,0,0,0,200,(409) 835-0835,,,02/25/2021      ,18:13:22        ,-94.137782,30.077615
+12,Privia Medical Group Gulf Coast,Medical Practice,,7900 Fannin Street,Houston,Harris,7900 Fannin Street,77054,29.6912647363224,-95.4029732362382,0,0,0,1100,(281) 656-8063,,,02/25/2021      ,20:20:54        ,-95.402973,29.691265
+13,Bswir Jv,Other,,2000 Medical Drive,Austin,Travis,2000 Medical Drive,78734,30.3531450228591,-97.9678287172829,0,0,0,200,+15122634500,https://www.bswrehab.com/,,,,-97.967829,30.353145
+14,Walgreens Pharmacy 02135,Other,,6610 Tidwell Rd,Houston,Harris,6610 Tidwell Rd,77016,29.8481700172587,-95.3028114001639,0,0,0,200,+17136332230,https://www.walgreens.com/locator/walgreens-6610+tidwell+rd-houston-tx-77016/id=2135,,,,-95.302811,29.84817
+15,Harris County Emergency Services Distri,Other,,,Katy,Harris,21201 Morton Road,77449,,,0,0,0,200,,,,,,,
+16,POST ACUTE MEDICAL REHAB HOSPITAL HUMBLE,Hospital,Q,18839 McKay Drive, Humble,Harris,"18839 McKay Drive, Humble, TX, 77338",77338,29.992033,-95.279058,0,0,0,200,(281) 446-3655,https://www.postacutemedical.com/,,,,-95.279058,29.992033
+17,Walgreens Pharmacy 10841,Other,,1660 Main St,Buda,Hays,1660 Main St,78610,30.0900335911781,-97.8225236001602,0,0,0,200,+15122952564,https://www.walgreens.com/locator/walgreens-1660+main+st-buda-tx-78610/id=10841,,,,-97.822524,30.090034
+18,Walgreens Pharmacy 12029,Other,,,Dripping Springs,Hays,27495 Rr 12,78620,,,0,0,0,200,,,,,,,
+19,Tarleton State University Student Health,Other,,201 N Saint Felix,Stephenville,Erath,201 N Saint Felix,76401,32.213681291312,-98.2211443884828,0,0,0,200,+12549689044,https://www.tarleton.edu/counseling/,,,,-98.221144,32.213681
+20,Medcare Plus Pharmacy,Other,,,Elmendorf,Bexar,3712 New Mathis Rd,78112,,,0,0,0,100,,,,,,,
+21,Canyon Creek Behavioral Health,Other,,Canyon Creek Drive,Temple,brll,1201 Canyon Creek Drive,76502,31.0604706178417,-97.3692340731589,0,0,0,100,,,,,,-97.369234,31.060471
+22,Dshs Navasota,Other,,,Navasota,Grimes,513 N La Salle St,77868,,,0,0,0,200,,,,,,,
+23,United Pharmacy 539,Other,,,Borger,Hutchinson,1414 W Wilson St,79007,,,0,0,0,100,,,,,,,
+24,CommUnityCare Sandra Joy Anderson,Other,, E 11th St,Austin,Travis,1705 E 11th St,78702,32.7465805893688,-96.8063986884738,0,0,0,200,5129788091,,,,,-96.806399,32.746581
+25,Genesis Primecare Tx Border Hlth,Other,,,Marshall,Harrison,805 Lindsey Drive,75670,,,0,0,0,100,,,,,,,
+26,Walgreens Pharmacy 12521,Other,,1700 Rr 12,San Marcos,Hays,1700 Rr 12,78666,29.8970882077432,-97.9647378731771,0,0,0,200,+15123933701,https://www.walgreens.com/locator/walgreens-1700+old+ranch+road+12-san+marcos-tx-78666/id=12521,,,,-97.964738,29.897088
+27,Fresenius Medical Care Metro East Dialy,Other,,,Mesquite,Dallas,909 Gross Rd,75149,,,0,0,0,100,,,,,,,
+28,Medical Arts Kidney Center Of Ennis,Other,,,Ennis,Ellis,(972) 875-8460,75119,,,0,0,0,100,,,,,,,
+29,Fresenius Kidney Care,Other,,,Amarillo,Potter,5920 Amarillo Blvd W,79106,,,0,0,0,100,,,,,,,
+30,BMA ALAMO CITY,Other,,Camden Street,San Antonio,Bexar,805 Camden Street,78215,29.4384652409032,-98.4871404290057,0,0,0,100,,,,,,-98.48714,29.438465
+31,Walgreens Pharmacy 04550,Other,,639 E Hopkins St,San Marcos,Hays,639 E Hopkins St,78666,29.8876521266821,-97.9277402299208,0,0,0,200,+15123961335,https://www.walgreens.com/locator/walgreens-639+e+hopkins+st-san+marcos-tx-78666/id=4550,,,,-97.92774,29.887652
+32,Houston Community Health Centers,Other,,Hahlo Street,Houston,Harris,424 Hahlo Street,77020,29.7805232609567,-95.3099258173571,0,0,0,100,,,,,,-95.309926,29.780523
+33,SOUTH TEXAS REHABILITATION HOSPITAL,Pharmacy,V,425 E Alton Gloor Blvd, Brownsville,Cameron,"425 E Alton Gloor Blvd, Brownsville, TX, 78526",78526,25.980805,-97.510596,0,0,0,200,(956) 554-6000,http://strh.ernesthealth.com/,,02/25/2021      ,08:47:44        ,-97.510596,25.980805
+34,DaVita Loma Vista,Other,,Lomaland Dr,El Paso,El Paso,"1382 Lomaland Dr, Ste A ",79935-5204,31.7493951,-106.3270184,0,0,0,100,,,,02/23/2021      ,05:45:45        ,-106.327018,31.749395
+35,SOLARA HOSPITAL HARLINGEN,Hospital,V,508 Victoria Ln, Harlingen,Cameron,"508 Victoria Ln, Harlingen, TX, 78550",78550,26.158673,-97.674428,0,0,0,100,(956) 425-9600,,,,,-97.674428,26.158673
+36,BAYLOR SCOTT WHITE INSTITUTE REHAB - DALLAS,Hospital,E,909 North Washington Ave, Dallas,Dallas,"909 North Washington Ave, Dallas, TX, 75246",75246,32.792263,-96.779604,0,0,0,200,,https://www.bswrehab.com/,,,,-96.779604,32.792263
+37,COBALT REHABILITATION HOSPITAL,Hospital,I,1600 E. Cliff, El Paso,El Paso,"1600 E. Cliff, El Paso, TX, 79902",79902,31.776912,-106.479668,0,0,0,100,,,,,,-106.479668,31.776912
+38,Rolling Hills Health,Medical Practice,,Oakhill Dr,Leakey,Real,121 Oakhill Dr,78873,42.819349,-78.737118,0,0,0,100,,,,02/25/2021      ,12:25:29        ,-78.737118,42.819349
+39,South Plains Public Health District - Brownfield,Local Health Department,,919 East Main,Brownfield,Terry,919 East Main,79316,37.537549,-77.4360429,0,0,0,200,806-637-2164,,,02/25/2021      ,15:05:25        ,-77.436043,37.537549
+40,PAM REHAB HOSPITAL CLEAR LAKE,Hospital,Q,110 East Medical Center Blvd, Webster,Harris,"110 East Medical Center Blvd, Webster, TX, 77598",77598,29.543433,-95.122195,0,0,0,200,(832) 224-9500,http://postacutemedical.com/facilities/find-facility/rehabilitation-hospitals/pam-rehabilitation-hospital-clear-lake,,02/25/2021      ,09:32:31        ,-95.122195,29.543433
+41,Brookshires Pharmacy 30,Pharmacy,,2107 S Loop 256,Palestine,Anderson,2107 S Loop 256,75801,31.736814017285,-95.6112959681131,0,0,0,300,(903) 723-1092,https://www.brookshires.com/covid-19-information,,02/25/2021      ,19:16:28        ,-95.611296,31.736814
+42,New Horizon Hospital,Other,,17506 Red Oak Dr,Houston,Harris,17506 Red Oak Dr,77090,30.0272598046932,-95.4498100866681,0,0,0,200,+12813971530,https://newhorizonhospitalhouston.com/,,,,-95.44981,30.02726
+43,DSHS -Alpine Clinic,Other,,Cockrell,Alpine,Brewster,205 North Cockrell Street,79830,30.3604768,-103.655212,0,0,0,200,,,,02/24/2021      ,16:53:07        ,-103.655212,30.360477
+44,Communitycare William Cannon,Other,,,Austin,Travis,6801 S Ih 35 Frontage Rd,78744,,,0,0,0,200,,,,,,,
+45,LEVELLAND CLINIC NORTH,Other,,103 John Dupree Dr,Levelland,Hockley,103 John Dupree Dr,79336,33.5746319650502,-102.368508628939,0,0,0,200,+18068942465,https://www.covenanthealth.org/our-services/family-medicine/levelland-clinic-north/,,,,-102.368509,33.574632
+46,Hope Clinic - Waxahachie,Community Clinic,,411 E Jefferson St ,Waxahachie,,411 E Jefferson St Bldg B,75165,41.6622071,-91.5295693,0,0,0,100,(972) 923-2440,PLINGUIST@CALL4HOPE.ORG,,02/25/2021      ,20:01:07        ,-91.529569,41.662207
+47,Lakeland Medical Associates - Tvfc 040207,Other,,170 Municipal Drive,Mabank,Henderson,170 Municipal Drive,75156,32.3335211530282,-96.1155037308095,0,0,0,200,+19038877992,https://lakelandmedical.net/,,,,-96.115504,32.333521
+48,Southeast Texas Medical Ventures Llc,Other,,,Humble,Harris,1475 Fm 1960 Bypass E,77338,,,0,0,0,100,,,,,,,
+49,Hyland's Pharmacy,Pharmacy,,Bill Mack Rd,Shamrock,Texas,1814 Bill Mack Rd,79079,35.2334549,-100.2473072,0,0,0,200,,,,,,-100.247307,35.233455
+50,AdventHelath Family Medicine Rural Health Clinics,Other,,187 Pr 4060,Lampasas,Lampasas,187 Pr 4060,76550,31.0648276257068,-98.1565567308302,0,0,0,200,,,,,,-98.156557,31.064828
+51,Broadway Kidney Disease Center,Other,,,San Antonio,Bexar,8840 Tradeway St,78217,,,0,0,0,100,,,,,,,
+52,Dshs Hillsboro,Other,,South Ivy,Hillsboro,hill,605 South Ivy,76645,32.0056256337289,-97.1196283154723,0,0,0,400,,,,,,-97.119628,32.005626
+53,Gatesville Drug Company,Other,,,Gatesville,Coryell,2513 S State Hwy 36,76528,,,0,0,0,100,,,,,,,
+54,ENCOMPASS HEALTH REHABILITATION AUSTIN,Hospital,O,330 W Ben White Blvd,Austin,Travis,"330 W Ben White Blvd, Austin, TX, 78704",78704,30.225856,-97.766262,0,0,0,100,Non-Public,http://encompasshealth.com,,,,-97.766262,30.225856
+55,LHD South Plains Public Health Dist (RE),Other,,,Denver City,Yoakum,415 Mustang Dr,TX,,,0,0,0,200,,,,,,,
+56,Beaumont Kidney Center,Other,,1085 S 23rd St,Beaumont,Jefferson,1085 S 23rd St,77707,30.066128078628,-94.1425119596815,0,0,0,100,+14098402020,,,,,-94.142512,30.066128
+57,Encompass Health Rehabilitation Hospital,Other,,,Arlington,Tarrant,3200 Matlock Rd,76015,,,0,0,0,100,,,,,,,
+58,Randalls Pharmacy 2961,Pharmacy,,9660 Westheimer Rd,Houston,Harris,"9660 Westheimer Road, Houston, TX, USA",77063,29.7386681,-95.5369576,0,0,0,200,(713)706-3725,,,02/12/2022      ,11:15:00        ,-95.536958,29.738668
+59,Manor Pharmacy,Other,,14008 Shadowglen Blvd,Manor,Travis,14008 Shadowglen Blvd,78653,30.3501669271879,-97.5458073578275,0,0,0,100,,,,,,-97.545807,30.350167
+60,Cobalt Rehabilitation Houston Heights H,Other,,,Houston,Harris,1917 Ashland St,77008,,,0,0,0,100,,,,,,,
+61,Mlk Health Center Houston,Other,,3550 Swingle Rd ,Houston,HARRIS,3550 Swingle Rd ,77047,29.61994,-95.366837,0,0,0,800,,,,,,-95.366837,29.61994
+62,Sam Houston State University Student Health Center,Community Clinic,,1608 Avenue J,Huntsville,TX,1608 Avenue J,77341,30.7176828,-95.5491839,0,0,0,100,(936) 294-1803,,,02/25/2021      ,15:14:07        ,-95.549184,30.717683
 63,Gordon Crofoot Md Pa,Other,,3701 Kirby Dr,Houston,Harris,3701 Kirby Dr,77098,29.7333302410544,-95.4180589731796,0,0,0,100,+17135260005,https://www.crofootmd.com/,,,,-95.418059,29.73333
 64,Los Barrios Unidos Community Clinic - Dallas 1,Other,,Singleton Blvd,Dallas,Dallas,809 Singleton Blvd,75212,32.7790649874394,-96.836326230802,0,0,0,200,,,,,,-96.836326,32.779065
 65,New Braunfels Regional Rehabilitation H,Other,,,New Braunfels,Comal,2041 Sundance Parkway,78130,,,0,0,0,100,,,,,,,
@@ -1378,7 +1378,7 @@ OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_
 1377,Dept of Public Health - Williamson County / Taylor,Local Health Department,o,115 W 6th St,Taylor,Williamson,115 W. 6th St.,76574,30.574821,-97.40948,0,0,0,200,(512) 238-2121,http://www.wcchd.org/,,02/25/2021      ,08:21:24        ,-97.40948,30.574821
 1378,Dept of Public Health - Stanton,Local Health Department,,220 S Stanton,El Paso,El Paso,220 S Stanton,79901,31.7568955904604,-106.485354791621,0,0,0,600,(915) 212-0533,,,02/05/2021      ,11:04:02        ,-106.485355,31.756896
 1379,Dept of Public Health - South Plains / Seminole,Other,B,704 Hobbs Highway,Seminole,Gaines,704 Hobbs Highway,79360,32.7195339941978,-102.653492485477,0,150,150,700,,,,02/25/2021      ,15:24:46        ,-102.653492,32.719534
-1380,Dept of Public Health - Port Arthur,Local Health Department,,449 Austin Ave,Port Arthur,Jefferson,449 Austin Ave,77640,29.8717822722933,-93.9354467778156,0,0,0,1900,(409) 983-8874,https://www.portarthurtx.gov/213/Health-Department,,02/24/2021      ,21:51:10        ,-93.935447,29.871782
+1380,Dept of Public Health - Port Arthur,Local Health Department,,449 Austin Ave,Port Arthur,Jefferson,449 Austin Ave,77640,29.8717822722933,-93.9354467778156,0,0,0,1900,(409) 983-8874,https://www.portarthurtx.gov/213/Health-Department,,02/26/2021      ,00:52:26        ,-93.935447,29.871782
 1381,Dept of Public Health - Tarrant County / Bagsby,Local Health Department,,3212 Miller Ave,Fort Worth,Tarrant,3212 Miller Ave,76119,32.7133384796194,-97.2629872517841,0,0,0,200,(817) 531-6722,,,02/06/2021      ,14:02:32        ,-97.262987,32.713338
 1382,Dept of Public Health - Tarrant County / Northwest Public Health Center,Local Health Department,,3800 Adam Grubb,Fort Worth,Tarrant,3800 Adam Grubb,76135,32.8104364960918,-97.435982933777,0,0,0,200,(817) 238-4441,,,02/06/2021      ,14:03:47        ,-97.435983,32.810436
 1383,Frontera Healthcare-Brady,Other,,,Brady,Mcculloch,2205 S Bridge St Ste 300,76825,31.110567,-99.334246,0,80,80,400,,,,02/24/2021      ,17:59:49        ,-99.334246,31.110567
@@ -2042,7 +2042,7 @@ OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_
 2041,Rhome Pharmacy,Pharmacy,,400 S Main St,Rhome,Wise,400 S Main St,76078,33.0502671711239,-97.4712778417451,0,0,0,200,(817) 638-5561,http://www.mybestvaluerx.com/,,01/27/2021      ,12:06:01        ,-97.471278,33.050267
 2042,S Texas Cancer Ctr Harlingen,Medical Practice,,2121 Pease St Ste,Harlingen,Cameron,2121 Pease St Ste,78550,26.1737169680065,-97.6709383715272,0,0,0,200,(956) 425-8845,https://www.texasoncology.com/cancer-centers/harlingen/harlingen/medical-oncology,,02/25/2021      ,07:43:52        ,-97.670938,26.173717
 2043,Cornerstone Clinic Fredericksburg,Medical Practice,,514 W Windcrest St,Fredericksburg,Gillespie,514 W Windcrest St,78624,30.2640294231249,-98.8860527390236,0,0,0,200,(830) 997-0330,http://cornerstoneclinicfbg.com/,,02/03/2021      ,13:57:48        ,-98.886053,30.264029
-2044,Salinas Pharmacy Inc (San Benito),Pharmacy,,500 N Sam Houston Blvd,San Benito,Cameron,500 N Sam Houston Blvd,78586,26.1351184715214,-97.6287628978624,0,0,0,200,(956) 399-5501,,,02/25/2021      ,00:45:02        ,-97.628763,26.135118
+2044,Salinas Pharmacy Inc (San Benito),Pharmacy,,500 N Sam Houston Blvd,San Benito,Cameron,500 N Sam Houston Blvd,78586,26.1351184715214,-97.6287628978624,0,0,0,200,(956) 399-5501,,,02/26/2021      ,01:09:48        ,-97.628763,26.135118
 2045,S Texas Cancer Ctr Brownsville,Medical Practice,,2150 N Expressway 83,Brownsville,Cameron,2150 N Expressway 83,78521,25.9473342103638,-97.5043509795815,0,0,0,200,(956) 548-0810,http://www.texasoncology.com/,,02/25/2021      ,04:57:29        ,-97.504351,25.947334
 2046,DSHS - Archer City,Local Health Department,,511 S Cedar,Archer City,Archer,511 S Cedar,76351,33.5904076153368,-98.6222257086177,0,0,0,400,(940) 574-2159,https://dshs.texas.gov/,,02/25/2021      ,15:55:31        ,-98.622226,33.590408
 2047,Surgical Arts Center,Medical Practice,,6501 Blanco Rd,San Antonio,Bexar,"6501 Blanco Road, San Antonio, TX, USA",78216,29.515578,-98.507325,0,0,0,200,,,,02/10/2021      ,00:12:35        ,-98.507325,29.515578
