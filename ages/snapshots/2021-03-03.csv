@@ -1,92 +1,92 @@
 Gender,Age Group,Race/Ethnicity,Doses Administered,People Vaccinated with at least One Dose,People Fully Vaccinated
-Female,16-49 years,Asian,78950,49342,29608
-Female,16-49 years,Black,58201,37021,21180
-Female,16-49 years,Hispanic,236254,156556,79698
-Female,16-49 years,White,326884,206065,120819
-Female,16-49 years,Other,99505,63797,35708
-Female,16-49 years,Unknown,342217,203334,138883
-Female,50-64 years,Asian,44238,28886,15352
-Female,50-64 years,Black,56676,37841,18835
-Female,50-64 years,Hispanic,154417,106173,48244
-Female,50-64 years,White,275046,182995,92051
-Female,50-64 years,Other,66338,43636,22702
-Female,50-64 years,Unknown,224913,135976,88937
-Female,65-79 years,Asian,52533,32723,19810
-Female,65-79 years,Black,64191,42198,21993
-Female,65-79 years,Hispanic,151811,102881,48930
-Female,65-79 years,White,497353,323333,174020
-Female,65-79 years,Other,80025,52147,27878
-Female,65-79 years,Unknown,246518,152464,94054
-Female,80+ years,Asian,11084,6840,4244
-Female,80+ years,Black,13746,9140,4606
-Female,80+ years,Hispanic,38705,26815,11890
-Female,80+ years,White,142443,92768,49675
-Female,80+ years,Other,59166,37843,21323
-Female,80+ years,Unknown,87966,55871,32095
+Female,16-49 years,Asian,80481,50466,30015
+Female,16-49 years,Black,59773,38082,21691
+Female,16-49 years,Hispanic,245364,162368,82996
+Female,16-49 years,White,335111,211548,123563
+Female,16-49 years,Other,102612,64971,37641
+Female,16-49 years,Unknown,343641,203166,140475
+Female,50-64 years,Asian,45207,29556,15651
+Female,50-64 years,Black,58836,39303,19533
+Female,50-64 years,Hispanic,161595,110759,50836
+Female,50-64 years,White,285491,190178,95313
+Female,50-64 years,Other,68398,44440,23958
+Female,50-64 years,Unknown,225681,135501,90180
+Female,65-79 years,Asian,53387,33190,20197
+Female,65-79 years,Black,66313,43359,22954
+Female,65-79 years,Hispanic,157971,106479,51492
+Female,65-79 years,White,513598,331652,181946
+Female,65-79 years,Other,82263,52947,29316
+Female,65-79 years,Unknown,246329,150979,95350
+Female,80+ years,Asian,11217,6907,4310
+Female,80+ years,Black,14212,9373,4839
+Female,80+ years,Hispanic,40283,27675,12608
+Female,80+ years,White,147296,95230,52066
+Female,80+ years,Other,59814,38069,21745
+Female,80+ years,Unknown,87973,55471,32502
 Female,Unknown,Asian,32,27,5
 Female,Unknown,Black,40,31,9
-Female,Unknown,Hispanic,239,207,32
-Female,Unknown,White,285,248,37
-Female,Unknown,Other,39,34,5
-Female,Unknown,Unknown,948,819,129
-Male,16-49 years,Asian,57103,36701,20402
-Male,16-49 years,Black,28746,18994,9752
-Male,16-49 years,Hispanic,147086,100708,46378
-Male,16-49 years,White,194963,127833,67130
-Male,16-49 years,Other,53297,35036,18261
-Male,16-49 years,Unknown,210776,126674,84102
-Male,50-64 years,Asian,35220,23393,11827
-Male,50-64 years,Black,34986,24089,10897
-Male,50-64 years,Hispanic,109510,76923,32587
-Male,50-64 years,White,199194,135688,63506
-Male,50-64 years,Other,39898,26614,13284
-Male,50-64 years,Unknown,154332,94510,59822
-Male,65-79 years,Asian,46128,28761,17367
-Male,65-79 years,Black,41769,27641,14128
-Male,65-79 years,Hispanic,113860,77082,36778
-Male,65-79 years,White,426746,276681,150065
-Male,65-79 years,Other,60367,39327,21040
-Male,65-79 years,Unknown,205143,126450,78693
-Male,80+ years,Asian,9429,5697,3732
-Male,80+ years,Black,6852,4476,2376
-Male,80+ years,Hispanic,23688,16327,7361
-Male,80+ years,White,110716,70819,39897
-Male,80+ years,Other,26314,16905,9409
-Male,80+ years,Unknown,56823,35846,20977
-Male,Unknown,Asian,42,34,8
-Male,Unknown,Black,33,30,3
-Male,Unknown,Hispanic,188,161,27
-Male,Unknown,White,235,209,26
-Male,Unknown,Other,48,41,7
-Male,Unknown,Unknown,638,561,77
-Unknown,16-49 years,Asian,1057,645,412
-Unknown,16-49 years,Black,617,377,240
-Unknown,16-49 years,Hispanic,1543,954,589
-Unknown,16-49 years,White,2992,1818,1174
-Unknown,16-49 years,Other,2260,1292,968
-Unknown,16-49 years,Unknown,15659,10908,4751
-Unknown,50-64 years,Asian,681,394,287
-Unknown,50-64 years,Black,688,419,269
-Unknown,50-64 years,Hispanic,788,522,266
-Unknown,50-64 years,White,2557,1536,1021
-Unknown,50-64 years,Other,1491,872,619
-Unknown,50-64 years,Unknown,15840,10927,4913
-Unknown,65-79 years,Asian,1936,1044,892
-Unknown,65-79 years,Black,1339,760,579
-Unknown,65-79 years,Hispanic,1736,1059,677
-Unknown,65-79 years,White,12576,6842,5734
-Unknown,65-79 years,Other,5332,2838,2494
-Unknown,65-79 years,Unknown,25503,17042,8461
+Female,Unknown,Hispanic,252,216,36
+Female,Unknown,White,289,251,38
+Female,Unknown,Other,40,35,5
+Female,Unknown,Unknown,946,816,130
+Male,16-49 years,Asian,58470,37721,20749
+Male,16-49 years,Black,29794,19721,10073
+Male,16-49 years,Hispanic,153868,105072,48796
+Male,16-49 years,White,201085,132033,69052
+Male,16-49 years,Other,55063,35838,19225
+Male,16-49 years,Unknown,211623,126446,85177
+Male,50-64 years,Asian,36146,24057,12089
+Male,50-64 years,Black,36505,25131,11374
+Male,50-64 years,Hispanic,114916,80415,34501
+Male,50-64 years,White,207679,141640,66039
+Male,50-64 years,Other,41233,27262,13971
+Male,50-64 years,Unknown,154869,94138,60731
+Male,65-79 years,Asian,46867,29150,17717
+Male,65-79 years,Black,43218,28436,14782
+Male,65-79 years,Hispanic,118409,79702,38707
+Male,65-79 years,White,440183,283585,156598
+Male,65-79 years,Other,62176,39975,22201
+Male,65-79 years,Unknown,204984,125204,79780
+Male,80+ years,Asian,9534,5751,3783
+Male,80+ years,Black,7099,4603,2496
+Male,80+ years,Hispanic,24683,16855,7828
+Male,80+ years,White,114165,72533,41632
+Male,80+ years,Other,26775,17076,9699
+Male,80+ years,Unknown,56746,35543,21203
+Male,Unknown,Asian,44,35,9
+Male,Unknown,Black,34,31,3
+Male,Unknown,Hispanic,190,161,29
+Male,Unknown,White,237,210,27
+Male,Unknown,Other,49,42,7
+Male,Unknown,Unknown,640,561,79
+Unknown,16-49 years,Asian,1066,650,416
+Unknown,16-49 years,Black,627,382,245
+Unknown,16-49 years,Hispanic,1578,975,603
+Unknown,16-49 years,White,3011,1828,1183
+Unknown,16-49 years,Other,2280,1309,971
+Unknown,16-49 years,Unknown,16818,12052,4766
+Unknown,50-64 years,Asian,687,397,290
+Unknown,50-64 years,Black,696,419,277
+Unknown,50-64 years,Hispanic,811,530,281
+Unknown,50-64 years,White,2580,1543,1037
+Unknown,50-64 years,Other,1498,875,623
+Unknown,50-64 years,Unknown,17333,12427,4906
+Unknown,65-79 years,Asian,1936,1043,893
+Unknown,65-79 years,Black,1348,763,585
+Unknown,65-79 years,Hispanic,1752,1061,691
+Unknown,65-79 years,White,12596,6832,5764
+Unknown,65-79 years,Other,5331,2830,2501
+Unknown,65-79 years,Unknown,27602,19134,8468
 Unknown,80+ years,Asian,327,181,146
-Unknown,80+ years,Black,204,115,89
-Unknown,80+ years,Hispanic,348,224,124
-Unknown,80+ years,White,2437,1338,1099
-Unknown,80+ years,Other,940,503,437
-Unknown,80+ years,Unknown,4543,3325,1218
+Unknown,80+ years,Black,208,117,91
+Unknown,80+ years,Hispanic,353,227,126
+Unknown,80+ years,White,2450,1344,1106
+Unknown,80+ years,Other,944,505,439
+Unknown,80+ years,Unknown,5637,4417,1220
 Unknown,Unknown,Asian,1,1,0
 Unknown,Unknown,Black,1,1,0
 Unknown,Unknown,Hispanic,5,5,0
 Unknown,Unknown,White,10,10,0
-Unknown,Unknown,Other,1,1,0
-Unknown,Unknown,Unknown,58,47,11
-Texas,Total,Total,5908363,3808222,2100141
+Unknown,Unknown,Other,2,2,0
+Unknown,Unknown,Unknown,60,49,11
+Texas,Total,Total,6061277,3893881,2167396
