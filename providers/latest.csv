@@ -1,5 +1,5 @@
 OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_AVAILABLE,MODERNA_AVAILABLE,VACCINES_AVAILABLE,Total_Shipped,PublicPhone,WEBSITE,RemoveRecord,LAST_UPDATE_VAC,LAST_UPDATE_TIME_VAC,x,y
-1,CVS Pharmacy 10840 FED,Other,,, MATHIS,,213 E SAN PATRICIO AVE,78368,,,0,0,0,1170,,,,,,,
+1,CVS Pharmacy 10840 Fed,Other,,, MATHIS,,213 E SAN PATRICIO AVE,78368,,,0,0,0,1170,,,,,,,
 2,Overton Pharmacy,Other,,104 Overton St,Overton,Rusk,104 W Henderson St,756484,,,0,0,0,400,(903)834-0154,,,03/02/2021      ,00:00:00        ,,
 3,Lone Star Pharmacy Fed,Other,,Fm 1764,Santa Fe,Galveston,4111 Fm 1764 Suite F,77510,,,0,0,0,300,,,,,,,
 4,"Spring Branch Pharmacy, Llc fed",Other,,State Highway 46 ,Spring Branch,Comal,17130 State Highway 46 West Suite 1,78070,,,0,0,0,300,,,,,,,
@@ -1410,7 +1410,7 @@ OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_
 1409,"Borger Pharmacy, LLC",Pharmacy,,524 W 10th,Borger,Hutchinson,524 W 10th,79007,35.6773436753524,-101.395468330906,0,0,0,200,(806) 274-9635,https://stores.healthmart.com/borgerpharmacy,,03/02/2021      ,18:03:35        ,-101.395468,35.677344
 1410,Family Pharmacy,Pharmacy,C,1720 Hillcrest Dr,Vernon,Wilbarger,1720 HILLCREST DR,76384,34.1530428185553,-99.3107868745335,0,0,0,1500,(940) 552-2999,https://www.familypharmacyvernon.com/,,03/04/2021      ,07:26:18        ,-99.310787,34.153043
 1411,Evins Regional Juvenile Center/Utmb,Other,,,Edinburg,Hidalgo,3801 E Monte Cristo,78541,26.3324393,-98.1230482,0,0,0,200,,,,03/03/2021      ,16:17:49        ,-98.123048,26.332439
-1412,TTUHSC Pharmacy,Pharmacy,B,3601 4th Street 1a150,Lubbock,Lubbock,3601 4th Street 1a150,79430,33.5897089837071,-101.892101020502,0,0,0,2200,(806) 414-9393,https://www.ttuhsc.edu/pharmacy/,,03/04/2021      ,22:20:38        ,-101.892101,33.589709
+1412,TTUHSC Pharmacy,Pharmacy,B,3601 4th Street 1a150,Lubbock,Lubbock,3601 4th Street 1a150,79430,33.5897089837071,-101.892101020502,0,0,0,2200,(806) 414-9393,https://www.ttuhsc.edu/pharmacy/,,03/05/2021      ,05:11:37        ,-101.892101,33.589709
 1413,USMD Las Colinas,Medical Practice,,6750 N MacArthur Blvd,Irving,Dallas,"6750 N MacArthur Blvd, Suite 350",75039,32.9017304,-96.9568635,0,0,0,1000,(972) 556-1616,http://www.mcnt.com/,,02/27/2021      ,07:57:28        ,-96.956863,32.90173
 1414,United pharmacy 547,Pharmacy,,920 N Willis St,Abilene,Taylor,"920 North Willis Street, Abilene, TX, USA",79603,32.4601449,-99.7652547,0,0,0,400,(325) 677-1362,https://local.pharmacy.unitedsupermarkets.com/tx/abilene/920-n-willis-st.html,,03/03/2021      ,08:50:06        ,-99.765255,32.460145
 1415,Brookshire Brothers Pharmacy 71,Pharmacy,,14981 Old Trinity Rd,Onalaska,Polk,14981 Old Trinity Rd,77360,30.8117601609383,-95.1201258994879,0,0,0,500,936-646-2488,,,03/02/2021      ,16:23:44        ,-95.120126,30.81176
@@ -2250,7 +2250,7 @@ OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_
 2249,Prestige Medical Pa,Medical Practice,,3945 County Road 58,Manvel,Brazoria,3945 County Road 58,77578,29.5124685575782,-95.3927183129791,0,0,0,200,(281) 412-6606,http://prestigemedicalpa.com/,,02/10/2021      ,21:07:38        ,-95.392718,29.512469
 2250,The Prescription Shop,Pharmacy,,120 S Grand Ave,Waxahachie,Ellis,120 S Grand Ave,75165,32.3964864035927,-96.8634841283366,0,0,0,200,972-938-2642,http://prescriptionshopwaxahachie.com,,02/26/2021      ,14:05:13        ,-96.863484,32.396486
 2251,Richardson Fire Department,Other,,1621 E Lookout Dr,Richardson,Collin,1621 E Lookout Dr,75082,32.9854288122428,-96.6943725429852,0,0,0,700,(972) 744-5700,https://www.cor.net/index.aspx?page=166,,03/04/2021      ,16:15:26        ,-96.694373,32.985429
-2252,Hospice Austin,Other,,Spicewood Springs Road,Austin,Travis,4107 Spicewood Springs Rd.,78759,30.368749,-97.754353,0,0,0,400,5123424700,hospiceaustin.org,,03/04/2021      ,05:27:10        ,-97.754353,30.368749
+2252,Hospice Austin,Other,,Spicewood Springs Road,Austin,Travis,4107 Spicewood Springs Rd.,78759,30.368749,-97.754353,0,0,0,400,5123424700,hospiceaustin.org,,03/05/2021      ,05:27:59        ,-97.754353,30.368749
 2253,Fresenius Medical Care Rosenberg Dialys,Other,,2510 B F TERRY BLVD ,Rosenberg,Fort Bend,2510 Bf Terry Blvd,77471,29.5471944156149,-95.7707727306117,0,0,0,200,(281) 341-7425,,,03/03/2021      ,14:48:04        ,-95.770773,29.547194
 2254,Walgreens Pharmacy 07783,Other,,,Dallas,Dallas,2301 Lakeland Dr,75228,32.811679,-96.701172,0,0,0,200,(214) 321-0197,https://www.walgreens.com/findcare/vaccination/covid-19,,03/04/2021      ,08:30:02        ,-96.701172,32.811679
 2255,Rhome Pharmacy,Pharmacy,,400 S Main St,Rhome,Wise,400 S Main St,76078,33.0502671711239,-97.4712778417451,0,0,0,200,(817) 638-5561,http://www.mybestvaluerx.com/,,01/27/2021      ,12:06:01        ,-97.471278,33.050267
