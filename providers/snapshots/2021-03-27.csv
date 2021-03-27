@@ -1446,7 +1446,7 @@ OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_
 1445,KINDRED HOSPITAL - MANSFIELD,Hospital,E,1802 Highway 157 N.,Mansfield,Tarrant,"1802 Highway 157 N., Mansfield, TX, 76063",76063,32.598995,-97.144663,0,0,0,0,400,(817) 473-6101,,,03/12/2021      ,11:42:51        ,-97.144663,32.598995
 1446,Baylor Scott White Pharmacy #227,Other,L,937 Canyon Creek Dr,Temple,Bell,937 Canyon Creek Dr,76502,31.05892556,-97.36583902,0,0,0,0,100,,,,03/27/2021      ,07:09:09        ,-97.365839,31.058926
 1447,Solutions Pharmacy,Other,,13830 Sawyer Ranch Rd,Dripping Springs,,"13830 Sawyer Ranch Rd Dripping Springs, TX 78620",78620,30.19448,-97.99786,0,0,0,0,200,,,,03/12/2021      ,12:04:40        ,-97.99786,30.19448
-1448,Bay Area Dialysissinton,Other,,East Sinton St,Sinton,San Patricio,222 East Sinton St,78387,28.0365138597757,-97.5084091183824,0,0,65,65,100,,,,03/26/2021      ,08:18:45        ,-97.508409,28.036514
+1448,Bay Area Dialysissinton,Other,,East Sinton St,Sinton,San Patricio,222 East Sinton St,78387,28.0365138597757,-97.5084091183824,0,0,60,60,100,,,,03/27/2021      ,15:59:22        ,-97.508409,28.036514
 1449,Bay Area Dialysis Alice,Other,,Medical Center Blvd,Alice,Jim Wells,901 Medical Center Blvd,78332,27.7616959031187,-98.0447174588705,0,0,0,0,100,,,,,,-98.044717,27.761696
 1450,Bandera Family Practice,Other,,1050 State Highway 16 S,Bandera,Bandera,1050 State Highway 16 S,78003,29.7312295122983,-99.0588216461935,0,130,0,130,800,+18307967713,,,03/26/2021      ,08:17:09        ,-99.058822,29.73123
 1451,conviva westover hills,Other,,Rogers ,San Antonio ,Bexar,1911 ROGERS RD ,78251,29.453369,-98.682961,0,20,0,20,400,,,,03/26/2021      ,17:01:38        ,-98.682961,29.453369
