@@ -42,8 +42,8 @@ def main():
     # I found a way to trick the FeatureServer into giving me all providers in
     # a single query but this could blow up at any point, so let's check
     assert (
-        len(providers) > 1000
-    ), "The query returned 1,000 or less providers, something is fishy"
+        len(providers) > 800
+    ), "The query returned 800 or less providers, something is fishy"
 
     fieldnames = providers[0].keys()
 
