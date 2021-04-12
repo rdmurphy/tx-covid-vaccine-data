@@ -6,7 +6,7 @@ OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_
 5,St. Hope Foundation -  Conroe,Other,,1414 S Frazier St Ste 105,Conroe,MONTGOMERY,1414 S Frazier St Ste 105,77301,30.285417,-95.456282,0,140,0,140,(936) 441-2440,http://offeringhope.org/,,04/07/2021      ,16:25:51        ,-95.456282,30.285417
 6,Harris County Public Health,Vaccine Hub,,2223 W Loop S,Houston,Harris,2223 W Loop South,77027,29.744195700504,-95.4569182430658,0,0,0,0,832-927-8787,https://vacstrac.hctx.net,,04/11/2021      ,09:53:58        ,-95.456918,29.744196
 7,Wilson County ESD #3,Other,,West Wheeler St,Stockdale,Wilson,656 West Wheeler St,78160,29.1407,-97.5818,0,350,2000,2350,,,,04/07/2021      ,09:11:49        ,-97.5818,29.1407
-8,Burleson Pharmacy,Pharmacy,,Sw Wilshire Blvd,Burleson,Johnson,344 Sw Wilshire Blvd Ste P,76028,32.5409876708749,-97.332674830806,0,190,0,190,,,,04/08/2021      ,23:18:54        ,-97.332675,32.540988
+8,Burleson Pharmacy,Pharmacy,,Sw Wilshire Blvd,Burleson,Johnson,344 Sw Wilshire Blvd Ste P,76028,32.5409876708749,-97.332674830806,0,90,70,160,,,,04/12/2021      ,00:15:07        ,-97.332675,32.540988
 9,Emergency Operations Center,Community Clinic,,West 10th,Del Rio,Val Verde,1051 West 10th,78840,29.3701092789369,-100.916992588528,5680,0,970,6650,,,,04/11/2021      ,22:37:21        ,-100.916993,29.370109
 10,Hyland's Pharmacy - Shamrock,Pharmacy,,Bill Mack Rd,Shamrock,Wheeler,1814 Bill Mack Rd,79079,35.2334549,-100.2473072,0,150,170,320,,,,04/11/2021      ,09:19:16        ,-100.247307,35.233455
 11,Colleyville Fire Department,Other,,Colleyville Blvd,Colleyville,Tarrant,5209 Colleyville Blvd,76034,32.8854861579315,-97.1512931029197,1100,0,0,1100,,,,04/08/2021      ,14:40:30        ,-97.151293,32.885486
