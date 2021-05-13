@@ -1856,7 +1856,7 @@ OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_
 1855,Walgreens Pharmacy 07251,Pharmacy,,, Houston ,,11038 Westheimer Rd,77042,29.7376948162122,-95.5713272030007,0,240,0,240,65,305,240,,,,05/12/2021      ,21:03:54        ,,-95.571327,29.737695
 1856,Walgreens Pharmacy 04836,Pharmacy,,,Austin,,11810 RANCH ROAD 620 N,78750,30.4623461346372,-97.823758064234,0,0,0,0,100,100,0,(512) 258-2459,https://www.walgreens.com/locator/walgreens-11810+ranch+road+620+n-austin-tx-78750/id=4836,,05/11/2021      ,21:18:53        ,,-97.823758,30.462346
 1857,Coppell Pediatrics Associates,Medical Practice,,,Coppell,,1705 E Belt line,75019,32.95215,-96.9515,0,30,0,0,0,30,0,972-393-8687,,,05/12/2021      ,21:46:04        ,,-96.9515,32.95215
-1858,DeAngelo Pharmacy,Pharmacy,, 112 TX-146 Bus, La Porte,Harris, 112 TX-146 Bus,77571,29.6644824,-95.0325097,0,50,0,0,0,50,0,281 842 8500,,,05/10/2021      ,20:05:24        ,,-95.03251,29.664482
+1858,DeAngelo Pharmacy,Pharmacy,, 112 TX-146 Bus, La Porte,Harris, 112 TX-146 Bus,77571,29.6644824,-95.0325097,0,50,0,0,0,50,0,281 842 8500,,,05/13/2021      ,02:58:30        ,,-95.03251,29.664482
 1859,Crawford Pharmacy Of Pleasanton LLC,Pharmacy,,145 W Hart Ave,San Antonio,Bexar,145 W Hart Ave,78214,29.3786524,-98.504035,0,50,0,0,80,130,0,(210) 932-1200,,,05/12/2021      ,19:48:24        ,,-98.504035,29.378652
 1860,Heriberto Rodriguezayala Md Pa,Other,,,Edinburg,Hidalgo,5419 S Mccoll Rd,78539,26.2539195,-98.2047253,0,131,0,29,0,131,29,,,,05/12/2021      ,18:21:53        ,,-98.204725,26.25392
 1861,Kroger Pharmacy 346,Pharmacy,,,HOUSTON,,1505 WIRT RD ,77055,29.7968582798374,-95.4864223866717,84,200,0,100,0,284,100,,,,05/10/2021      ,08:05:00        ,,-95.486422,29.796858
