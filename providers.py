@@ -38,12 +38,13 @@ def main():
 
     # go a few steps in so we can get what we need out of the Arc data structure
     providers = sorted(providers, key=itemgetter("OBJECTID"))
+    number_of_providers = len(providers)
 
     # I found a way to trick the FeatureServer into giving me all providers in
     # a single query but this could blow up at any point, so let's check
     assert (
-        len(providers) > 800
-    ), "The query returned 800 or less providers, something is fishy"
+        number_of_providers > 800
+    ), f"The query returned 800 or less providers, something is fishy ({number_of_providers})"
 
     fieldnames = providers[0].keys()
 
