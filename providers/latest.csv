@@ -3003,7 +3003,7 @@ OBJECTID,NAME,TYPE,TSA,STREET,CITY,COUNTY,ADDRESS,ZIP,LATITUDE,LONGITUDE,PFIZER_
 3002,MASON PHARMACY LLC,Pharmacy,,17531 Fm 529 Rd,Houston,Harris,17531 FM 529 RD Houston 77095,77095,29.8787399432451,-95.6755571728556,0,220,0,0,0,220,0,,,,05/29/2021      ,13:33:34        ,,-95.675557,29.87874
 3003,"Laredo Downtown Pharmacy, Inc",Pharmacy,,,Laredo ,,1219 Matamoros St. ,78040,27.58081,-99.51957,0,93,0,0,150,243,0,,,,05/28/2021      ,18:53:53        ,,-99.51957,27.58081
 3004,Kids Wellness Center,Community Clinic,,3228 Interstate 30 Ste 300,Mesquite,Dallas,3228 Interstate 30 Ste 300,75150,32.8116363,-96.6515941,0,120,0,0,0,120,0,,,,05/26/2021      ,11:57:14        ,,-96.651594,32.811636
-3005,A.Y.O. Healthcare Clinic,Community Clinic,,565 W Oates Road,Garland,Dallas,565 W Oates Road,75043,32.8471238,-96.6210378,0,58,0,0,0,58,0,,,,05/28/2021      ,17:41:38        ,,-96.621038,32.847124
+3005,A.Y.O. Healthcare Clinic,Community Clinic,,565 W Oates Road,Garland,Dallas,565 W Oates Road,75043,32.8471238,-96.6210378,0,0,0,53,0,0,53,,,,05/31/2021      ,03:12:42        ,,-96.621038,32.847124
 3006,Medicure Family Clinic/ Joavia Health Pllc,Community Clinic,,1038 N Carrier Pkwy,Grand Prairie,Dallas,1038 N Carrier Pkwy,75050,32.7558573,-97.0195562,0,110,0,100,0,110,100,,,,05/28/2021      ,08:46:34        ,,-97.019556,32.755857
 3007,Dallas Family Medicine,Community Clinic,,8668 Skillman St,Dallas,Dallas,8668 Skillman St,75243,32.8954073,-96.7237847,0,228,0,0,0,228,0,,,,05/26/2021      ,14:35:21        ,,-96.723785,32.895407
 3008,Su Clinica Familiar,Other,,,Garland,,315 N. Shiloh Rd. STE 102,75042,32.9145173,-96.6658761,3285,0,0,0,0,3285,0,(972) 205-0440,,,05/27/2021      ,09:41:28        ,,-96.665876,32.914517
