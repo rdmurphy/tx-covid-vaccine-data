@@ -18,6 +18,10 @@ def main():
     response = request.urlopen(LAST_EDITED_ENDPOINT)
     data = json.load(response)
 
+    if data["error"]:
+        print('This feed is returning an error. Skipping.')
+        return
+
     # it comes down in like nanoseconds so we need to peel it back a little
     last_edited = datetime.fromtimestamp(
         data["editingInfo"]["lastEditDate"] / 1000.0, tz=CENTRAL_TZ

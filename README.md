@@ -23,9 +23,9 @@ This is sourced from the same XLSX file as above after being added as a new shee
 
 ### Vaccine Providers ([Latest data](providers/latest.csv))
 
-Initially added to the repo on Dec. 28, 2020.
+Initially added to the repo on Dec. 28, 2020. Disabled on June 10, 2021.
 
-This is the data powering Texas' [COVID vaccine provider map](https://tdem.maps.arcgis.com/apps/webappviewer/index.html?id=3700a84845c5470cb0dc3ddace5c376b). It initially tracked how many vaccines had been distrbuted by week, but has since moved to just showing the totals of Pfizer and Moderna vaccines received per location.
+This was the data powering Texas' [COVID vaccine provider map](https://tdem.maps.arcgis.com/apps/webappviewer/index.html?id=3700a84845c5470cb0dc3ddace5c376b). On June 10, 2021 it was disabled.
 
 ## What's no longer available
 
