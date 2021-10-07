@@ -27,14 +27,14 @@ def main():
     as_of = modified.date().isoformat()
 
     # grab our "Data" sheet
-    sheet = wb["By County"]
+    # sheet = wb["By County"]
 
     # save out our latest file
-    with open(LATEST_DISTRIBUTION_PATH, "w") as outfile:
-        writer = csv.writer(outfile)
+    # with open(LATEST_DISTRIBUTION_PATH, "w") as outfile:
+    #     writer = csv.writer(outfile)
 
-        for row in sheet.rows:
-            writer.writerow(cell.value for cell in row)
+    #     for row in sheet.rows:
+    #         writer.writerow(cell.value for cell in row)
 
     sheet = wb["By Age, Gender, Race"]
 
@@ -50,7 +50,7 @@ def main():
     # don't need the notebook anymore
     wb.close()
 
-    copyfile(LATEST_DISTRIBUTION_PATH, f"distribution/snapshots/{as_of}.csv")
+    # copyfile(LATEST_DISTRIBUTION_PATH, f"distribution/snapshots/{as_of}.csv")
     copyfile(LATEST_AGE_PATH, f"ages/snapshots/{as_of}.csv")
 
 
